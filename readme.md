@@ -9,7 +9,7 @@ sbt run
 result: 
 ```
 Simple View
-{"name":"ali","password":"bakhtari"}
+{"name":"ali","lastName":"bakhtari"}
 ```
 ```
 Another View
