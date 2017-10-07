@@ -1,4 +1,4 @@
-name := "scalayaml"
+name := "simpleapp"
 
 version := "0.1"
 
