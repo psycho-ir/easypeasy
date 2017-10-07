@@ -1,7 +1,7 @@
 Don't fool yourself use whatever makes sense :))
 ============================================
-How to run
-==========
+
+##How to run
 
 sbt run 
 :)
