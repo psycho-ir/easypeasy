@@ -3,7 +3,7 @@ package ninja.soroosh.simpleapp.dtos
 import ninja.soroosh.simpleapp.models.User
 import play.api.libs.json.Json
 
-case class SimpleUserDTO(name: String, password: String)
+case class SimpleUserDTO(name: String, lastName: String)
 
 object SimpleUserDTO {
   implicit val simpleUserFormat = Json.format[SimpleUserDTO]
